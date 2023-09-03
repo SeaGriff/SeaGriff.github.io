@@ -21,8 +21,8 @@
 title: Sarah Griffith's academic webpage
 email: sarah_griffith@brown.edu
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.sarahcelestegriffith.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "SeaGriff.github.io" # the subpath of your site, e.g. /blog
+url: "https://github.com/SeaGriff/SeaGriff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  seagriff
 
 # Build settings
