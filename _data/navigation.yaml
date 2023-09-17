@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research and Exposition"
+    url: /research_exposition/
+  - title: "Teaching"
+    url: /teaching/

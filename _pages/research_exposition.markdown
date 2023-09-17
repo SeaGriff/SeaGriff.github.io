@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: Research and Exposition
 description: Research and expositional writings.
-permalink: research_exposition
+permalink: /research_exposition/
 ---
 
 ### Published papers

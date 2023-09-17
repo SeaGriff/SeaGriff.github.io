@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: CV
 description: Curriculum Vitae.
-permalink: cv
+permalink: /cv/
 ---
 
 Education:

@@ -21,14 +21,15 @@
 title: Sarah Griffith's academic webpage
 email: sarah_griffith@brown.edu
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "SeaGriff.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/SeaGriff.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/SeaGriff/SeaGriff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  seagriff
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -49,3 +50,42 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  name   : "Sarah Griffith"
+  avatar : "/assets/images/vamos_matroid.svg"
+  bio    : "Algebraic geometer and combinatoricist."
+  links:
+    - label: "University Email"
+      icon: ""
+      url: "mailto:sarah_griffith@brown.edu"
+    - label: "Math Blog"
+      icon: ""
+      url: "https://sheafifiedsarah.wordpress.com/"
+    - label: "GitHub"
+      icon: "/assets/github_icon.png"
+      url: "https://github.com/SeaGriff"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
