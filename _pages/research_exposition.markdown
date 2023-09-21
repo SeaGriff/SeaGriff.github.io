@@ -16,7 +16,7 @@ permalink: /research_exposition/
 
 Most of my expositional writing is on [my blog](https://sheafifiedsarah.wordpress.com/).
 
-- [Modules of differentials](assets/docs/Module_of_Differentials_Notes.pdf)
-- [Pullback and inducement of maps to projective space](assets/docs/Maps_to_Projective_Space.pdf)
-- [Lagrange multipliers with Bees](assets/docs/lagrange opt.pdf)
-- [Chevalley's theorem on constructible sets, and openness of flat morphisms](assets/docs/Chevalley_s_Theorem.pdf)
+- [Modules of differentials](/assets/docs/Module_of_Differentials_Notes.pdf)
+- [Pullback and inducement of maps to projective space](/assets/docs/Maps_to_Projective_Space.pdf)
+- [Lagrange multipliers with Bees](/assets/docs/lagrange opt.pdf)
+- [Chevalley's theorem on constructible sets, and openness of flat morphisms](/assets/docs/Chevalley_s_Theorem.pdf)
