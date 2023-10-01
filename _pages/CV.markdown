@@ -17,14 +17,15 @@ permalink: /cv/
 * Feb 2022, TU Berlin. Diskrete Mathematik/Geometrie & Diskrete Geometrie Seminar. *The Torelli theorem, or how to determine a graph from its algebraic data*.
 * Mar 2022, University of Vermont. Combinatorics Seminar. *The Torelli theorem, or how to determine a graph from its algebraic data*.
 * Apr 2023, Pittsburgh AWM Sectional. *The Torelli Theorem For Graphs*.
-* Oct 2 2023 (planned), Georgia Tech. Algebra Seminar. *A stronger Torelli theorem for graphs*.
+* Oct 2 2023, Clark Atlanta University. AWM Research Symposium. *A stronger Torelli theorem for graphs*.
+* Oct 2 2023, Georgia Tech. Algebra Seminar. *A stronger Torelli theorem for graphs*.
 * TBA 2023 (rescheduled), University of Kentucky. Algebra Seminar. *Title TBA*.
 
 ### Refereeing:
-* Sep 2023, Discrete Mathematics.
+* 2023, Discrete Mathematics.
 
 ### Article reviews:
-* Aug 2023, MathSciNet.
+* Aug 2023 (submitted), MathSciNet.
 
 ### Conference and workshop attendance:
 * Feb 2019, Algebraic Geometry Northeast Series. At UMass Amherst.
